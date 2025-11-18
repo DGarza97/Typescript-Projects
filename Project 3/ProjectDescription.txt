@@ -1,0 +1,6 @@
+I created a shoppingList app to help show different data types. 
+
+
+npm install -g typescript
+tsc shoppingList.ts         //to regenerate .js file
+tsc --init                  //for .json file
