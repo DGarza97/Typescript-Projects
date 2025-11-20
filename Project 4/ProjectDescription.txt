@@ -1,0 +1,3 @@
+This program is a quiz app that gives several different questions, 
+gives a time limit to each question, and then let's the user know how many correct
+answers they got, as well as what the answers were if answered wrong.

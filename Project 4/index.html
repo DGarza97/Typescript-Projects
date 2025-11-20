@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="start-screen">
+        <h1>Welcome CSCI 3336 Class!</h1>
+        <p>Answer a question, get a reward!</p>
+        <button class="start-btn">Start Quiz</button>
+    </div>
+
+    <div class="qz" style="display: none;">
+        <div class="tm">Time Left: <span id="t">30</span>s</div>
+        <div class="q">Question will appear here</div>
+        <div class="opts"></div>
+        <div class="fb"></div>
+        <button class="next-btn">Next</button>
+        <div class="rs">
+            Your score: <span id="sc">0</span>
+        </div>
+        <button class="rst-btn">Restart Quiz</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

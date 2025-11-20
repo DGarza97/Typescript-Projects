@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "none",
+    "strict": true,
+    "outDir": "./",
+    "allowJs": false,
+    "sourceMap": false,
+    "declaration": false,
+    "noEmitOnError": false,
+    "skipLibCheck": true,
+    "lib": ["es2015", "dom"]
+  },
+  "include": ["./script.ts"],
+  "exclude": ["./script.js"]
+}
