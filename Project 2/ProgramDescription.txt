@@ -1,0 +1,1 @@
+I made a simple task manager site to show off the evaluation of typescript
