@@ -3,3 +3,10 @@ Created a Rock Paper Scissors game to show the perks of typescript!
 setup:
 npm install -g typescript
 tsc --init
+
+highlights:
+- generics
+- function overloading
+- optional parameters
+- type narrowing & guards
+- control structures
